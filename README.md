@@ -8,4 +8,4 @@
 ###### 위의 작업을 한 번에 하려고 만들어 둡니다.
 ###### cd && wget https://github.com/bagjunggyu/betsy/archive/master.zip 
 ###### unzip master.zip && mv ~/betsy-master/betsy.sh . && rm master.zip && rm -r ~/betsy-master
-###### sudo sh betsy.sh
+###### sh betsy.sh
